@@ -1,8 +1,6 @@
-# Guesser
+# CompSci121JAVAGuesser
 
-A number Guessing Game
-
-## Pseudocode
+#### A Number Guessing Game that goes both ways
 
 Constant turns is the number of guesses allowed (7).
 
